@@ -1,0 +1,12 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: Emotomap_development
+  pool: 5
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: Emotomap_test
+  pool: 5
