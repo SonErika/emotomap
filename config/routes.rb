@@ -1,5 +1,11 @@
 Emotomap::Application.routes.draw do
-  get "/entries" => "entries#show"
+  
+  root "dashboards#show"
+
+  #or users#create
+  resources :users,
+    controller: 'users',
+    only: 'create'
 
   # Example resource route with sub-resources:
   #   resources :products do
