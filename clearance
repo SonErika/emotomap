@@ -314,4 +314,17 @@ error: Your local changes to the following files would be overwritten by checkou
 	clearance
 Please, commit your changes or stash them before you can switch branches.
 Aborting
-[1m[7m%[27m[1m[0m                                                                       [0m[27m[24m[J[01;34m~/emotomap[00m [01;31madd-user-mo...[00m [01;32m✔[00m [K[0m[27m[24m[J[01;34m~/emotomap[00m [01;31madd-user-mo...[00m [01;32m✔[00m [32mg[39m[K[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mc[24m[24mcmmi  [4mc[24m [24m [4mc[24m[4mc[4mo[24m[24mc[24mommint    t  it -a -m "commiting    ting everything bef [Koore 
+[1m[7m%[27m[1m[0m                                                                       [0m[27m[24m[J[01;34m~/emotomap[00m [01;31madd-user-mo...[00m [01;32m✔[00m [K[0m[27m[24m[J[01;34m~/emotomap[00m [01;31madd-user-mo...[00m [01;32m✔[00m [32mg[39m[K[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mc[24m[24mcmmi  [4mc[24m [24m [4mc[24m[4mc[4mo[24m[24mc[24mommint    t  it -a -m "commiting    ting everything bef [Koore merge[A[36C[33m"[33mc[33mo[33mm[33mm[33mi[33mt[33mt[33mi[33mn[33mg[33m [33me[33mv[33me[33mr[33my[33mt[33mh[33mi[33mn[33mg[33m [33mb[33me[33mf[33mo[33mr[33me[33m [33mm[33me[33mr[33mg[33me[33m"[39m
+[add-user-model-and-clearance b004c65] committing everything before merge
+ 1 file changed, 20 insertions(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                       [0m[27m[24m[J[01;34m~/emotomap[00m [01;32madd-user-mo...[00m [01;32m✔[00m [K[0m[27m[24m[J[01;34m~/emotomap[00m [01;32madd-user-mo...[00m [01;32m✔[00m [32mg[39m[K[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mc[24m[24mcheckout ms aster
+error: Your local changes to the following files would be overwritten by checkout:
+	clearance
+Please, commit your changes or stash them before you can switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                       [0m[27m[24m[J[01;34m~/emotomap[00m [01;31madd-user-mo...[00m [01;32m✔[00m [K[0m[27m[24m[J[01;34m~/emotomap[00m [01;31madd-user-mo...[00m [01;32m✔[00m [32mg[39m[K[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[1m[31mg[1m[31mi[0m[39m[39m [0m[32mg[39m[0m[39m [39m [32mgit[39m checkout master
+error: Your local changes to the following files would be overwritten by checkout:
+	clearance
+Please, commit your changes or stash them before you can switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                       [0m[27m[24m[J[01;34m~/emotomap[00m [01;31madd-user-mo...[00m [01;32m✔[00m [K
